@@ -11,6 +11,5 @@ bootstarp is widely used here with all the assests in the assest folder.
 Weather app uses openweather api with limit of 60 request per minute.
 weather report page is targetted to blank.
 entire project is responsive to any screen size.
-visit this git repo
-https://github.com/adityasuman990/Health-
+
 
